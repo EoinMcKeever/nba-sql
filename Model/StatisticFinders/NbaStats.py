@@ -2,7 +2,6 @@ import requests
 import pandas as pd
 import json
 from Utility.StatLabelsVariables import all_player_stat_labels
-import math
 
 headers = {
     'Connection': 'keep-alive',
